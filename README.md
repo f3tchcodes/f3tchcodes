@@ -6,4 +6,3 @@ hello, i like coding, discord, anime, music, and stuff
 [![Discord Presence](https://lanyard.cnrad.dev/api/1016388460929626174)](https://discord.com/users/1016388460929626174)
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api/?username=f3tchcodes&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=f3tch%27s+stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/stats-organization/github-stats-extended)
-.
